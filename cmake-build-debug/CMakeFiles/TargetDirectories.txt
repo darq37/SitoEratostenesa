@@ -1,0 +1,3 @@
+C:/Users/Xordan/CLionProjects/Algorytmy/11-19/cmake-build-debug/CMakeFiles/11_19.dir
+C:/Users/Xordan/CLionProjects/Algorytmy/11-19/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Xordan/CLionProjects/Algorytmy/11-19/cmake-build-debug/CMakeFiles/rebuild_cache.dir
